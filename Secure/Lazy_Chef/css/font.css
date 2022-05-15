@@ -1,0 +1,11 @@
+﻿h1{font-family:cursive;color:rosybrown;}
+b{font-family:cursive;}
+h3{font-family:cursive;color:rosybrown;}
+
+.b1{font-family: "monstserrat";
+color:  #4d4d4d;
+coursor: pointer;
+transition: o.8s;
+text-decoration: none;
+font-size: 20px ;}
+.b1:hover{color: white;}

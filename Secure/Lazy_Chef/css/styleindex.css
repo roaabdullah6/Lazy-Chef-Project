@@ -1,0 +1,39 @@
+
+
+.b1{
+font-family: "monstserrat";
+color:  #0A2558;
+coursor: pointer;
+transition: o.8s;
+text-decoration: none;
+}
+.b1:hover{
+color: white;
+}
+
+.border{
+transition:0.8s
+}
+.border:hover{
+border: 10px solid;
+color: rosybrown;
+}
+
+.p1{
+font-family: Luminari, fantasy; font-size: 20px; color: white;
+}
+.p2{
+font-family: Luminari, fantasy; font-size: 20px; color: #4d4d4d;
+}
+.p3{
+font-family: Luminari, fantasy; font-size: 30px; color: #4d4d4d;
+}
+
+.border2{
+transition:0.8s
+
+}
+.border2:hover{
+border: 3px solid;
+color: white;
+}
